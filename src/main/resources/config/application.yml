@@ -1,0 +1,8 @@
+server:
+    port: 8080
+
+spring:
+    datasource:
+        url: postgresql://trquoctoan:Toan972002@localhost:5432/jlearn
+        username: trquoctoann
+        password: Toan@972002
